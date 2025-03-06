@@ -10,4 +10,8 @@ function WelcomeMessage() {
   );
 }
 
+<<<<<<< HEAD
 export default WelcomeMessage;
+=======
+export default WelcomeMessage;
+>>>>>>> 6119716585e69a901ceb74e2244d49f84ef622b4
